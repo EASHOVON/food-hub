@@ -11,9 +11,9 @@ body{
     font-family: 'Oswald', sans-serif;
 }
 
-section{
+.flex-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 90px;
 }
 
 
@@ -99,3 +99,43 @@ section{
     color: #18191E;
 }
 /* End of Section-2 */
+
+/* Section-3 */
+.recip-heading{
+    font-size: 41px;
+    color: #707070;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.recip-paragraph{
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 44px; 
+}
+
+.recip-items{
+    justify-content: center;
+}
+
+.item-food{
+    width: 29%;
+    box-shadow: 10px 10px 40px grey;
+    padding: 20px;
+    margin-left: 30px;
+    border-radius: 36px;
+}
+
+
+.item-food img{
+    width: 100%;
+    margin-bottom: 15px;
+
+}
+
+.item-heading{
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+/* End of Section-3 */
