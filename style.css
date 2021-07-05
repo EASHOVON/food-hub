@@ -30,21 +30,23 @@ section{
 .banner-heading{
     font-size: 55px;
     letter-spacing: 5px;
-    color: #474952;
+    color: #575757;
 }
 
 .banner-paragraph{
     font-size: 20px;
     margin-top: 25px;
+    color: #828282;
 }
 
-.banner-btn{
+.banner-btn,
+.button-link{
     text-decoration: none;
     padding: 17px 35px;
     display: inline-block;
     color: white;
     background-image: linear-gradient(orange, tomato);
-    margin-top: 25px;
+    margin-top: 30px;
     font-weight: 700;
     font-size: 18px;
     letter-spacing: 3px;
@@ -61,3 +63,39 @@ section{
 }
 
 /* End of Section-1 */
+
+/* Section-2 */
+.section-2{
+    background-image: url(img/7.png);
+    background-repeat: no-repeat;
+    height: 420px;
+}
+
+.about-img{
+    width: 50%;
+    margin-top: 56px;
+}
+.about-img img{
+    width: 40%;
+    padding-left: 41px;
+    margin-left: 203px;
+}
+.about-content{
+    width: 50%;
+    padding-top: 101px;
+    padding-right: 172px;
+}
+
+.about-heading{
+    font-size: 41px;
+    letter-spacing: 10px;
+    color: #707070;
+    margin-bottom: 29px;
+}
+
+.about-paragraph{
+    font-size: 19px;
+    font-weight: 600;
+    color: #18191E;
+}
+/* End of Section-2 */
