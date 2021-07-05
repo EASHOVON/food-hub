@@ -1,0 +1,63 @@
+/* Global CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Golbal CSS End */
+
+/* Common CSS */
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+
+/* Common CSS End */
+
+/* Section-1 */
+
+.banner-content{
+    width: 50%;
+    margin-left: 70px;
+    padding-top: 175px;
+}
+
+.banner-heading{
+    font-size: 55px;
+    letter-spacing: 5px;
+    color: #474952;
+}
+
+.banner-paragraph{
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.banner-btn{
+    text-decoration: none;
+    padding: 17px 35px;
+    display: inline-block;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    margin-top: 25px;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 3px;
+    border-radius: 30px;
+}
+
+.color-change{
+    color: tomato;
+}
+
+.banner-img{
+    width: 50%;
+    margin-right: 70px;
+}
+
+/* End of Section-1 */
