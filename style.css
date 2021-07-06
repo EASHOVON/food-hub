@@ -226,3 +226,29 @@ body{
 }
 
 /* End of Section 6 */
+/* Footer Section */
+.footer{
+    background-color: black;
+    padding: 70px 0;
+}
+
+.footer-heading{
+    color: #707070;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 35px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+}
+
+.footer-span{
+    color: orange;
+}
+
+.footer-paragraph{
+    color: white;
+    text-align: center;
+    margin-bottom: 35px;
+    font-size: 20px;
+}
+/* End of Footer Section */
